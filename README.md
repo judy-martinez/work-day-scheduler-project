@@ -17,3 +17,6 @@
 * THEN the text for that event is saved in local storage
 * WHEN I refresh the page
 * THEN the saved events persist
+
+# Live URL
+https://judy-martinez.github.io/work-day-scheduler-project/
